@@ -9,5 +9,6 @@
 
 int main(void) {
 	title();
+	putchar('\n');
 	return(0);
 }
